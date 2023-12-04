@@ -4,7 +4,7 @@
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>3.4</version>
+        <version>4.51</version>
         <relativePath />
     </parent>
     <groupId>io.jenkins.plugins</groupId>
@@ -12,8 +12,7 @@
     <version>1.1-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <properties>
-        <jenkins.version>2.73.3</jenkins.version>
-        <java.level>7</java.level>
+        <jenkins.version>2.346.3</jenkins.version>
     </properties>
     <name>MISRA Compliance Report Plugin</name>
     <description>Creates MISRA Guideline Compliance Summary (GCS) tables for your builds</description>
